@@ -4,7 +4,7 @@ This project is a Java Console Application to generate random passwords and perf
 
 ## Introduction
 
-I decided to build this project during the Winter Break of my second year after taking the Object-Oriented Effective Java Programming course. I wanted to build something interesting with Java to practice and see what I could do on my own. However, I still wasn't sure what I wanted to do. Then one night, while explaining to my father the importance of having a strong password for his social media accounts, I got the idea of creating a random password generator. A week later, it was done. 
+I decided to build this project during the Winter Break of my 3rd Semester after learning JAVA . I wanted to build something interesting with Java to practice and see what I could do on my own. However, I still wasn't sure what I wanted to do. Then one night, while explaining to my father the importance of having a strong password for his social media accounts, I got the idea of creating a random password generator. A week later, it was done. 
 ## Functionalities
 
 ### 1. Generating a Password:
